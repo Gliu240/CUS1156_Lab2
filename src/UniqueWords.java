@@ -2,8 +2,7 @@
 Class:Unique Words
 Author: Goden Liu
 Date: 2/14/22
-Description:This file completes the rest of the count unique words methods.
-/*
+Description:This file completes the rest of the count unique words methods.*/
 
 package Lab2;
 import java.util.ArrayList;
